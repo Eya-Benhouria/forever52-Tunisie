@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\xml_file_paths.xml.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "E:\\dev\\Mightyweb\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "E:\\dev\\Mightyweb\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    }
+]

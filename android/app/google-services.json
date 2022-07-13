@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175583317277",
+    "project_id": "forever52-tunisia",
+    "storage_bucket": "forever52-tunisia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175583317277:android:37d27edef65ce9bf0ee5f4",
+        "android_client_info": {
+          "package_name": "com.forever52.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175583317277-bv3ukb8vdbfidc5pbhq2l1tvbsl880q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLOiswJJXf4XHOo0Ut06zDLXMckkV5G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175583317277-bv3ukb8vdbfidc5pbhq2l1tvbsl880q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
